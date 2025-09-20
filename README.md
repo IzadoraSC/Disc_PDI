@@ -1,5 +1,3 @@
-<img width="817" height="406" alt="image" src="https://github.com/user-attachments/assets/597b9b66-c7d3-4b47-8280-e12e977a237b" /># Processamento Digital de Imagens
-
 Disciplina: Processamento Digital de Imagens - PDI
 
 Curso: Geoprocessamento / Campus UEMA-Balsas
