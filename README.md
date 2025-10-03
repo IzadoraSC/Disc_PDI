@@ -23,7 +23,7 @@ Contato: izadorasccs@gmail.com
 - Aula 3: [Slides](https://www.canva.com/design/DAGzk8FQ_pE/bOPf4uBlAdPNMBgDV8Vw_A/edit?utm_content=DAGzk8FQ_pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - Script: [Técnicas de PDI - Parte I](https://colab.research.google.com/drive/19-1YE1pQzrBZ61rz3CIVHyw8OstRAsBF?usp=sharing)
 
-## AULAS UNIDADE 1 (20/09/2025 e 21/09/2025):
+## AULAS UNIDADE 2 (04/10/2025 e 05/10/2025):
 - Aula 4: [Slides](https://www.canva.com/design/DAG0lLfsR3A/KCLTPTArtPkmShnLIY-0iQ/edit?utm_content=DAG0lLfsR3A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Aula 5: [Slides]()
 - Aula 6: [Slides]()
