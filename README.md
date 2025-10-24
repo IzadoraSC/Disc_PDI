@@ -29,7 +29,9 @@ Contato: izadorasccs@gmail.com
 
 ## AULAS UNIDADE 3 (25/10/2025 e 26/10/2025):
 - Aula 7 e 8: [Slides]()
+  - Script 1: [PDI - com Python](https://colab.research.google.com/drive/1WgRrqVpH3qgHN-W_lgYgL9pHshNbxv9V?usp=sharing) 
 - Aula 9: [Slides]()
+  - Script 2: [PDI - com Python]()
 
   
 ## Material disponível no Google Drive (OBS: após a finalização da disciplina o link do drive ficará indisponível, ficando os materiais disponíveis apenas no github):
