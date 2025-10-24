@@ -25,8 +25,12 @@ Contato: izadorasccs@gmail.com
 
 ## AULAS UNIDADE 2 (04/10/2025 e 05/10/2025):
 - Aula 4: [Slides](https://www.canva.com/design/DAG0lLfsR3A/KCLTPTArtPkmShnLIY-0iQ/edit?utm_content=DAG0lLfsR3A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Aula 5: [Slides]()
-- Aula 6: [Slides]()
+- Aula 5 e 6: [Slides](https://www.canva.com/design/DAG0wUUX44c/PphvgT4uU_SHjcVoLJ_nog/edit?utm_content=DAG0wUUX44c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## AULAS UNIDADE 3 (25/10/2025 e 26/10/2025):
+- Aula 7 e 8: [Slides]()
+- Aula 9: [Slides]()
+
   
 ## Material disponível no Google Drive (OBS: após a finalização da disciplina o link do drive ficará indisponível, ficando os materiais disponíveis apenas no github):
 - [Material - Driver](https://drive.google.com/drive/folders/1E6JeTUBwc5gdKelOFwKm2T-nqkaApq2a?usp=drive_link)
