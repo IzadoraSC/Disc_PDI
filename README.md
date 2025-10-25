@@ -28,8 +28,8 @@ Contato: izadorasccs@gmail.com
 - Aula 5 e 6: [Slides](https://www.canva.com/design/DAG0wUUX44c/PphvgT4uU_SHjcVoLJ_nog/edit?utm_content=DAG0wUUX44c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## AULAS UNIDADE 3 (25/10/2025 e 26/10/2025):
-- Aula 7 e 8: [Slides]()
-  - Script 1: [PDI - com Python](https://colab.research.google.com/drive/1WgRrqVpH3qgHN-W_lgYgL9pHshNbxv9V?usp=sharing) 
+- Aula 7 e 8: [Slides](https://www.canva.com/design/DAG06fatSvU/_hcDUooyOxnULl8a0J-CHg/edit?utm_content=DAG06fatSvU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - Script 1: [PDI - com Python](https://colab.research.google.com/drive/1WgRrqVpH3qgHN-W_lgYgL9pHshNbxv9V?usp=sharing)
 - Aula 9: [Slides]()
   - Script 2: [PDI - com Python]()
 
